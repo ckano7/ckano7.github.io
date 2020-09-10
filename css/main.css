@@ -47,7 +47,7 @@ ul.posts li {
 /*Styles the body of the webpage to have a linear-gradient*/
 body {
   height: 400px;
-  background: linear-gradient(to right, #000000 10%, #10108a 50%, #6f38e6 70%)
+  background: linear-gradient(to right, #000000 10%, #10108a 50%, #6f38e6 80%)
 }
 
 div {
